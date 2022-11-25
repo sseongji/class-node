@@ -2,3 +2,4 @@
 1. git diff <commit id> <commit id>
 2. branch (나뭇가지, 분기)
 3. pull - push
+4. pull 기능을 테스트 합니다.
