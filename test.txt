@@ -10,7 +10,6 @@
 
 6. rebase 이전 commit 1
 7. rebase 이전 commit 2
-8. rebase 직전 commit 3
 
 
 6. rebase 이전
