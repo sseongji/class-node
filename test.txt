@@ -7,4 +7,7 @@
 
 1. 깃 체크아웃 브랜치 이전 + 분기점 한 단계 올리기
 
-6. rebase 이전
+
+6. rebase 이전 commit 1
+7. rebase 이전 commit 2
+
